@@ -1,0 +1,18 @@
+body{
+    background:#1d94e4;
+}   
+.login_form{
+    margin-top: 25%;
+    background: #fff;
+    padding: 30px;
+        border-radius: 5px;
+}
+.form_btn{
+    background: #fb641b;
+    border-radius: 10px;
+    color: #fff;
+    width:100%;
+}
+.text{
+    text-align: center;
+}
